@@ -1,9 +1,9 @@
-# Luca-CV
+# markdown CV
 
 Use
 - Replace `photo.jpg` with your photo.
-- Update `cv_en_john_doe.md`.
-- Run `make_cv.ps1` to generate `cv_en_john_doe.docx`,`cv_en_john_doe.tex`, `cv_en_john_doe.pdf`.
+- Update `cv_ogiorgis.md`.
+- Run `make_cv.ps1` to generate `cv_ogiorgis.tex` and `cv_ogiorgis.pdf`.
 
 Requirements
 - [Python](https://www.python.org/)
@@ -12,3 +12,5 @@ Requirements
 
 Acknowledgment
 [Template photo](https://unsplash.com/photos/dLij9K4ObYY) by [Joe Shields](https://unsplash.com/@fortyozsteak)
+
+Thanks to: Luca Franceschini (lucaf.eu)
