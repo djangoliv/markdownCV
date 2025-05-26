@@ -2,8 +2,8 @@
 
 Use
 - Replace `photo.jpg` with your photo.
-- Update `cv_ogiorgis.md`.
-- Run `make_cv.ps1` to generate `cv_ogiorgis.tex` and `cv_ogiorgis.pdf`.
+- Add you cv in markdown.
+- Run `make_cv.sh your_cv.md` to generate `your_cv.tex` and `your_cv.pdf`.
 
 Requirements
 - [Python](https://www.python.org/)

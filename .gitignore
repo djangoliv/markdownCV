@@ -10,5 +10,6 @@
 *.tex
 *.tmp
 *.xref
+tmp
 
 !cv_template.tex

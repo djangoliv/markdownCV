@@ -12,7 +12,7 @@
 
 ## Experiences
 
-### *Depuis 2017* Chez Logilab pour EDF et le CEA
+### *Depuis 2017* Chez Logilab
 ### Python, Jupyter, React, Typescript, C++, Cython
 
 - CodeTympan: Code de propagation acoustique pour EDF
